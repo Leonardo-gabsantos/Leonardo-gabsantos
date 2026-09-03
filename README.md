@@ -1,6 +1,6 @@
 <div align="center">
 
-  <p><b><big><big><big><big>Hi there, I'm Leonardo 👋</big></big></big></big></b></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Hi%20there,%20I'm%20Leonardo%20👋&fontSize=38&animation=fadeIn&fontAlignY=35" />
 
 </div>
 
