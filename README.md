@@ -1,6 +1,6 @@
 <div align="center">
 
-  <p><b><font size="7">Hi there, I'm Leonardo 👋</font></b></p>
+  <p><b><big><big><big><big>Hi there, I'm Leonardo 👋</big></big></big></big></b></p>
 
 </div>
 
