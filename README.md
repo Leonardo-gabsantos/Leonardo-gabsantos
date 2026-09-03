@@ -1,6 +1,6 @@
 <div align="center">
 
-  <p align="center" style="font-size: 32px; font-weight: bold;">Hi there, I'm Leonardo 👋</p>
+  <h1 align="center">Hi there, I'm Leonardo 👋</h1>
 
 </div>
 
