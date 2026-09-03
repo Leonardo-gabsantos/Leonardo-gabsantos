@@ -13,9 +13,8 @@ A Systems Analysis and Development student at FATEC, focused on developing my pr
 ### 🛠️ Frameworks
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=django,flask,spring,tailwind" />
+  <img src="https://skillicons.dev/icons?i=django,flask,spring,tailwind,nextjs" />
 </a>
-
 ---
 
 ### 📫 Connect with me
