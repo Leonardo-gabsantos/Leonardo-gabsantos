@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi there, I'm Leonardo 👋</h1>
+  <p align="center" style="font-size: 32px; font-weight: bold;">Hi there, I'm Leonardo 👋</p>
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-  <h3>Get in touch with me</h3>
+  <h3>Get in touch with me:</h3>
 
   <a href="https://leonardo-gabsantos.github.io/leonardo-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
