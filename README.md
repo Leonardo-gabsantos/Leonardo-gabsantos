@@ -21,7 +21,7 @@
   <h3>🛠️ Tech Stack</h3>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,nodejs,html,css,js,postgres,mysql,git,github,figma,docker" />
+    <img src="https://skillicons.dev/icons?i=java,py,ts,nodejs,html,css,js,postgres,mysql" />
   </a>
 
   <br /><br />
@@ -30,6 +30,14 @@
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,flask,spring,tailwind,nextjs" />
+  </a>
+
+  <br /><br />
+
+  <h3>🛠️ Tools</h3>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,postman,figma,git,github" />
   </a>
 
 </div>
