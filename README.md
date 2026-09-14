@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  <h3>🛠️ Tech Stack</h3>
+  <h3> Tech Stack</h3>
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,nodejs,html,css,js,ts,postgres,mysql" />
@@ -26,7 +26,7 @@
 
   <br /><br />
 
-  <h3>🛠️ Frameworks</h3>
+  <h3> Frameworks</h3>
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,flask,spring,tailwind,nextjs" />
@@ -34,7 +34,7 @@
 
   <br /><br />
 
-  <h3>🛠️ Tools</h3>
+  <h3> Tools</h3>
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,postman,figma,git,github" />
