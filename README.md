@@ -51,7 +51,7 @@
 
 <p>
   <b>🔒 Sistask (In Development)</b> — Complete service order system focused on meeting real market demand for clients.<br />
-  <i>Techs: Node.js, Next.js, TypeScript, PostgreSQL, Docker</i><br />
+  <i>Techs: Node.js, Next.js, TypeScript, PostgreSQL, Docker, Postmann</i><br />
   <span>⚠️ <i>This is a private repository.</i></span>
 </p>
 
