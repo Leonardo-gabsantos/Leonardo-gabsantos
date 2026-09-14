@@ -45,6 +45,38 @@
 <br />
 
 ---
+<div align="center">
+
+  <h3>🔭 Featured Projects:</h3>
+
+<p>
+  <b>🔒 Sistask (In Development)</b> — Complete service order system focused on meeting real market demand for clients.<br />
+  <i>Techs: Node.js, Next.js, TypeScript, PostgreSQL, Docker</i><br />
+  <span>⚠️ <i>This is a private repository.</i></span>
+</p>
+
+  ---
+  <p>
+    <b><a href="https://github.com/PI-Nexus/Projeto-Integrador-I">Integrated Project 1</a></b> — Vaccination virtual assistant via Telegram interface that returns vaccines based on age and region, complete dashboards, and vaccine coverage for journalists, integrated with natural language processing.<br />
+    <i>Techs: Python, Telegram API, Ollama, geopy, pandas</i>
+  </p>
+  <p>
+    <b><a href="https://github.com/Leonardo-gabsantos/music-stream">MusicStream</a></b> — Music streaming app focused on the community and underground genres, offering personalized recommendations that deviate from generic industry standards.<br />
+    <i>Techs: Python, SQLite3, HTML, CSS, JavaScript</i>
+  </p>
+
+  <p>
+    <b><a href="https://github.com/Leonardo-gabsantos/Automacao-Selenium">Java OOP Calculator</a></b> — Java calculator utilizing Object-Oriented Programming concepts and best practices with Java and Spring Boot.<br />
+    <i>Techs: Java, Spring Boot</i>
+  </p>
+  <p>
+    <b><a href="https://github.com/Leonardo-gabsantos/Automacao-Selenium">Selenium Automation</a></b> — (In Development): Simple project to automate tasks using AI and manage activity workflows.<br />
+    <i>Techs: Python, Selenium</i>
+  </p>
+
+</div>
+
+---
 
 <div align="center">
 
