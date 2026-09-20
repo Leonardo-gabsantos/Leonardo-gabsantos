@@ -1,107 +1,118 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Hi%20there,%20I'm%20Leonardo%20👋&fontSize=38&animation=fadeIn&fontAlignY=35" />
-
+  <p style="font-size: 1.8em; font-weight: 600;">Leonardo Santos 💻</p>
 </div>
 
 ---
 
-<div align="center">
+<div>
+  <h3>👨‍💻 About me</h3>
+  <p>
+    Currently studying <b>Software Analysis & Development</b> at FATEC SJC, focusing on Full-Stack Development with Java, Python, and TypeScript. I have been working on real-world projects involving REST APIs, Process Automation, and Microservices, always seeking to build scalable and efficient solutions.
+  </p>
+</div>
 
-  <p><b>Systems Analysis and Development Student at FATEC</b></p>
+---
+
+<div>
+  <h3>Technologies & Tools</h3> <br>
+
+  <p align="left">
+    <b>Languages:</b><br />
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,html,css" />
+    </a>
+  </p>
+
+  <p align="left">
+    <b>Frameworks & Runtimes:</b><br />
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=spring,django,flask,nextjs,tailwind,nodejs" />
+    </a>
+  </p>
+
+  <p align="left">
+    <b>Infrastructure, Cloud & Databases:</b><br />
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,linux,vercel,postman,git,github,figma" />
+    </a>
+  </p>
+</div>
+
+---
+
+<div>
+  <h2>Featured Projects</h2> 
+
+  <p>
+    <b>🔒 Sistask (In Development)</b> — Complete service order system focused on meeting real market demand.<br />
+    <code>Node.js</code> <code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Docker</code> <code>Postman</code><br />
+    <span>⚠️ <i>Private repository</i></span>
+  </p>
+
+  <br />
+
+  <p>
+    <b><a href="https://github.com/PI-Nexus/Projeto-Integrador-I">Integrated Project 1</a></b> — Vaccination virtual assistant via Telegram returning data based on age/region, featuring interactive dashboards and NLP.<br />
+    <code>Python</code> <code>Telegram API</code> <code>Ollama</code> <code>Geopy</code> <code>Pandas</code>
+  </p>
+
+  <br />
+
+  <p>
+    <b><a href="https://github.com/Leonardo-gabsantos/music-stream">MusicStream</a></b> — Music streaming app focused on community and underground genres, offering personalized recommendations.<br />
+    <code>Python</code> <code>SQLite3</code> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
+  </p>
+
+  <br />
+
+  <p>
+    <b><a href="https://github.com/Leonardo-gabsantos/Java-OOP-Calculator">Java OOP Calculator</a></b> — Calculator utilizing Object-Oriented Programming concepts and best practices.<br />
+    <code>Java</code> <code>Spring Boot</code>
+  </p>
+
+  <br />
+
+  <p>
+    <b><a href="https://github.com/Leonardo-gabsantos/Automacao-Selenium">Selenium Automation</a></b> — Project to automate workflows and tasks using AI and Python.<br />
+    <code>Python</code> <code>Selenium</code>
+  </p>
+</div>
+
+---
+
+<div>
+  <h3>🎯 Current Focus</h3>
+  <p>
+    I am currently deepening my knowledge and applying best practices in:
+  </p>
+  <p>
+    <code>Information Security</code> 
+    <code>System Integration</code> 
+    <code>System Protection</code> 
+    <code>Data Management</code>
+  </p>
+</div>
+
+---
+
+<div align = 'center'>
+  <h3>Get in touch:</h3>
   
-  <p><i>Focused on building solid software, learning new technologies, and growing every day. Always open to new challenges and collaborative projects.</i></p>
-
-</div>
-
----
-
-<div align="center">
-
-  <h3> Tech Stack</h3>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,nodejs,html,css,js,ts,postgres,mysql" />
-  </a>
-
-  <br /><br />
-
-  <h3> Frameworks</h3>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,spring,tailwind,nextjs" />
-  </a>
-
-  <br /><br />
-
-  <h3> Tools</h3>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,postman,figma,git,github" />
-  </a>
-
-</div>
-
-<br />
-
----
-<div align="center">
-
-  <h3>🔭 Featured Projects:</h3>
-
-<p>
-  <b>🔒 Sistask (In Development)</b> — Complete service order system focused on meeting real market demand for clients.<br />
-  <i>Techs: Node.js, Next.js, TypeScript, PostgreSQL, Docker, Postmann</i><br />
-  <span>⚠️ <i>This is a private repository.</i></span>
-</p>
-
-  ---
-  <p>
-    <b><a href="https://github.com/PI-Nexus/Projeto-Integrador-I">Integrated Project 1</a></b> — Vaccination virtual assistant via Telegram interface that returns vaccines based on age and region, complete dashboards, and vaccine coverage for journalists, integrated with natural language processing.<br />
-    <i>Techs: Python, Telegram API, Ollama, geopy, pandas</i>
-  </p>
-  <p>
-    <b><a href="https://github.com/Leonardo-gabsantos/music-stream">MusicStream</a></b> — Music streaming app focused on the community and underground genres, offering personalized recommendations that deviate from generic industry standards.<br />
-    <i>Techs: Python, SQLite3, HTML, CSS, JavaScript</i>
-  </p>
-
-  <p>
-    <b><a href="https://github.com/Leonardo-gabsantos/Automacao-Selenium">Java OOP Calculator</a></b> — Java calculator utilizing Object-Oriented Programming concepts and best practices with Java and Spring Boot.<br />
-    <i>Techs: Java, Spring Boot</i>
-  </p>
-  <p>
-    <b><a href="https://github.com/Leonardo-gabsantos/Automacao-Selenium">Selenium Automation</a></b> — (In Development): Simple project to automate tasks using AI and manage activity workflows.<br />
-    <i>Techs: Python, Selenium</i>
-  </p>
-
-</div>
-
----
-
-<div align="center">
-
-  <h3>Get in touch with me:</h3>
-
-  <a href="https://leonardo-gabsantos.github.io/leonardo-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
+    
   <a href="https://www.linkedin.com/in/leonardo-gabriel-dev-sjc/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  
-
+  <a href="mailto:leog.santos2023@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leonardo-gabsantos/Leonardo-gabsantos/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leonardo-gabsantos/Leonardo-gabsantos/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Leonardo-gabsantos/Leonardo-gabsantos/output/github-contribution-grid-snake.svg">
   </picture>
-
 </div>
-
----
