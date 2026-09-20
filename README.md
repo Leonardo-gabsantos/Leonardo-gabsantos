@@ -1,8 +1,7 @@
 <div align="center">
-  <p style="font-size: 1.8em; font-weight: 600;">Leonardo Santos 💻</p>
+  <h1>Leonardo Santos 💻</h1>
 </div>
 
----
 
 <div>
   <h3>👨‍💻 About me</h3>
